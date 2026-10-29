@@ -1,0 +1,61 @@
+{
+  "digest": {
+    "ownerName": "Alex",
+    "recipientEmail": "you@example.com",
+    "timezone": "America/Los_Angeles",
+    "sendTime": "7:00 AM",
+    "lookbackHours": 24,
+    "readerFocus": "a startup investor",
+    "newsletterGroups": [
+      "Venture & Startups",
+      "Tech & AI",
+      "Finance & Markets",
+      "Other"
+    ]
+  },
+  "newsletters": {
+    "forwardedFrom": [
+      "you@work.example.com"
+    ],
+    "senders": [
+      "newsletter-one@substack.com",
+      "newsletter-two@mail.beehiiv.com",
+      "hello@publication.example.com"
+    ],
+    "eventSenderDomains": [
+      "luma-mail.com",
+      "partiful-mail.com",
+      "campaign.eventbrite.com"
+    ]
+  },
+  "podcasts": {
+    "priority": [
+      {
+        "name": "Acquired",
+        "feed": "https://feeds.transistor.fm/acquired"
+      },
+      {
+        "name": "Invest Like the Best",
+        "feed": "https://feeds.megaphone.fm/CLS2859450455"
+      },
+      {
+        "name": "No Priors",
+        "feed": "https://feeds.megaphone.fm/nopriors"
+      }
+    ],
+    "oneLiner": [
+      {
+        "name": "Lenny's Podcast",
+        "feed": "https://api.substack.com/feed/podcast/10845.rss"
+      },
+      {
+        "name": "Hidden Brain",
+        "feed": "https://feeds.simplecast.com/kwWc0lhf"
+      },
+      {
+        "name": "A paid show (add your private feed locally only)",
+        "feed": null
+      }
+    ]
+  }
+}

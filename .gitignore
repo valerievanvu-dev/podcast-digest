@@ -1,0 +1,7 @@
+# Personal configuration and generated prompts
+config.local.json
+*.local.md
+*.local.json
+
+.DS_Store
+node_modules/
